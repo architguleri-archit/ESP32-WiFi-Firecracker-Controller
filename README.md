@@ -11,7 +11,7 @@ No mobile app is required — just open the ESP32 IP address in your browser.
 
 The Arduino code files included in this repository:
 
-- `ESP32_WiFi_Firecracker_Controller.ino` → Main project code  
+- [ESP32_WiFi_Firecracker_Controller.ino](ESP32_WiFi_Firecracker_Controller.ino) → Main project code 
 
 Upload the `.ino` file using **Arduino IDE** with ESP32 board support installed.
 
