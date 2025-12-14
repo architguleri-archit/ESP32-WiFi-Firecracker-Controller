@@ -11,10 +11,9 @@ No mobile app is required — just open the ESP32 IP address in your browser.
 
 The Arduino code files included in this repository:
 
-- [`ESP32_WiFi_Firecracker_Controller.ino`](./ESP32_WiFi_Firecracker_Controller.ino) → Main project code  
-- [`webpage.h`](./webpage.h) → Web interface (HTML/CSS)
+- `ESP32_WiFi_Firecracker_Controller.ino` → Main project code  
 
-Upload `.ino` files using **Arduino IDE** with ESP32 board support.
+Upload the `.ino` file using **Arduino IDE** with ESP32 board support installed.
 
 ---
 
@@ -40,16 +39,16 @@ Upload `.ino` files using **Arduino IDE** with ESP32 board support.
 
 ## 🚀 How It Works
 
-ESP32 runs a **local web server**.  
-After connecting to the ESP32 Wi-Fi network, open the IP address in your phone browser to access the control panel.
+The ESP32 runs a **local web server**.  
+After connecting to the ESP32 Wi-Fi network, open the IP address in your phone browser to access the firing control panel.
 
 ---
 
 ## ⚠️ Safety Notice
 
 This project is created **strictly for educational purposes**.  
-Firecrackers can be dangerous if handled improperly.  
-Always follow **local laws and safety guidelines**.  
+Firecrackers and high-current devices can be dangerous if handled improperly.  
+Always follow **local laws, safety guidelines, and manufacturer instructions**.  
 The author is **not responsible for misuse or damage**.
 
 ---
@@ -57,10 +56,11 @@ The author is **not responsible for misuse or damage**.
 ## 📹 Tutorial
 
 Watch the full tutorial video on YouTube:  
-👉 [Bolt Bunny YouTube Channel](https://www.youtube.com/@Bolt_Bunny)
+👉 **[Bolt Bunny YouTube Channel](https://www.youtube.com/@Bolt_Bunny)**
 
 ---
 
 ## 👤 Author
 
 **Archit Guleri**
+
