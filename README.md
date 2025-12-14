@@ -57,7 +57,7 @@ The author is **not responsible for misuse or damage**.
 ## 📹 Tutorial
 
 Watch the full tutorial video on YouTube:  
-👉 **[Bolt Bunny YouTube Channel](https://www.youtube.com/@BoltBunny)**
+👉 [Bolt Bunny YouTube Channel](https://www.youtube.com/@Bolt_Bunny)
 
 ---
 
